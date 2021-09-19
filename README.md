@@ -11,11 +11,6 @@ Features:
 • Background IMG edit.
 • All settings are in Config file.
 
-Live DEMO:
-• https://spigot.jakubsarm.eu/AuthMeWebLogin/
-• Name: Test / test / your@Mail.com
-• Pass: SpigotTest
-
 
 Setup
 Code (Text):
